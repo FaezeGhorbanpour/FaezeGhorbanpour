@@ -4,8 +4,6 @@
 
 
 ```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
